@@ -8,8 +8,9 @@ Including:
 1. Material Icons
 2. Materialize.css
 3. Google Fonts API https://fonts.googleapis.com/css?family=Great+Vibes
-4. jQuery.js "https://code.jquery.com/jquery-3.2.1.min.js"
-5. Materialize.css
+4. Font Awesome
+5. jQuery.js "https://code.jquery.com/jquery-3.2.1.min.js"
+6. Materialize.css
 
 Getting Started:
 ---------------
