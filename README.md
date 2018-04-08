@@ -14,5 +14,5 @@ Including:
 
 Getting Started:
 ---------------
-Just copy the contents to your react-app index.html 
+Just copy the contents to your react-app index.html and save
 ___________________________________________________________________________________
